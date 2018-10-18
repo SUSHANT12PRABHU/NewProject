@@ -1,6 +1,3 @@
 # NewProject
-# Checkmate Stonewall
-Testing Project
-# Checkmate
+# Check Stonewall
 Test App Project
-Test Project
