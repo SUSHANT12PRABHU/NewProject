@@ -1,2 +1,2 @@
 # NewProject
-Testing Project
+Test App Project
